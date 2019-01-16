@@ -2,8 +2,6 @@
 layout: default
 ---
 
-这是[我的github](https://github.com/kadoyatsukasa).
-
 这个既是我的博客，也是我的学习笔记，看书学习的笔记和心得都写在这里了
 
 ## 看过的书
