@@ -13,4 +13,4 @@ layout: default
 
 - Java
   - [Java 核心技术](./docs/corejava/menu.md)
-  - [Java 编程思想](./docs/thinkinginjava/menu.md)
+  - [Java 编程思想](./docs/404.md)
