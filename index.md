@@ -4,11 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[My github](https://github.com/kadoyatsukasa).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+this is my first github page,also my notebook and my blog
 
 # Header 1
 
