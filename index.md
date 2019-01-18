@@ -9,6 +9,19 @@ layout: default
 >
 > 嘛，好记性不如烂笔头，就把笔记记录下来咯，嘻嘻
 
-- Java
+- **Java**
   - [Java 核心技术](./docs/corejava/menu.md)
   - [Java 编程思想](./docs/thinkinginjava/menu.md)
+
+## 联系本人
+
+>各位大佬如果有什么意见,有什么更好的学习资源,随时欢迎指导  
+
+- QQ: 1370803625  
+    ![qqcode](./qq.png)
+
+- 微信：xp1370803625  
+    ![wechatcode](./wechat.png)  
+
+- twitter: @amaduesmozart  
+    ![twitter](./twitter.png)
