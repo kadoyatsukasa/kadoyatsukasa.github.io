@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Flower",
+            "request": "launch",
+            "mainClass": "initialization.Flower"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Leaf",
             "request": "launch",
             "mainClass": "initialization.Leaf"
