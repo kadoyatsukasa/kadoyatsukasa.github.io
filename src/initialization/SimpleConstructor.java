@@ -13,4 +13,15 @@ public class SimpleConstructor{
         for(int i=0;i<10;i++)
             new Rock();
     }
-}
+}/*output:
+Rock 
+Rock 
+Rock 
+Rock 
+Rock 
+Rock 
+Rock 
+Rock 
+Rock 
+Rock 
+*///:~

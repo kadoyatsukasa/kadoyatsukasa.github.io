@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SimpleConstructor2",
+            "request": "launch",
+            "mainClass": "initialization.SimpleConstructor2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleConstructor",
+            "request": "launch",
+            "mainClass": "initialization.SimpleConstructor"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Flower",
             "request": "launch",
             "mainClass": "initialization.Flower"

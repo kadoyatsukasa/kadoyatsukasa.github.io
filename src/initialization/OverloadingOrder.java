@@ -14,5 +14,7 @@ public class OverloadingOrder{
         f("String first",11);
         f(99,"Integer first");
     }
-}
-///:~
+}/*output:
+String: String first ,int: 11
+int: 99String: Integer first
+*///:~

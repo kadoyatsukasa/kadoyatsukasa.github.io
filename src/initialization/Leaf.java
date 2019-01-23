@@ -17,4 +17,6 @@ public class Leaf{
         Leaf x=new Leaf();
         x.increment().increment().increment().print();
     }
-}  ///:~
+} /*Output:
+i=3
+*///:~
