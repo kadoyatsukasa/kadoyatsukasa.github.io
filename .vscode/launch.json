@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PassingThis",
+            "request": "launch",
+            "mainClass": "initialization.PassingThis",
+            "projectName": "kadoyatsukasa.github.io_b79981"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SimpleConstructor2",
             "request": "launch",
             "mainClass": "initialization.SimpleConstructor2"
