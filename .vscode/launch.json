@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TerminationCondition",
+            "request": "launch",
+            "mainClass": "initialization.TerminationCondition",
+            "projectName": "kadoyatsukasa.github.io_66dfe204"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PassingThis",
             "request": "launch",
             "mainClass": "initialization.PassingThis",
