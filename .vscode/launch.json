@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leaf",
+            "request": "launch",
+            "mainClass": "initialization.Leaf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoSynthesis",
+            "request": "launch",
+            "mainClass": "initialization.NoSynthesis"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DefaultConstructor",
+            "request": "launch",
+            "mainClass": "initialization.DefaultConstructor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverloadingOrder",
+            "request": "launch",
+            "mainClass": "initialization.OverloadingOrder"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Overloading",
+            "request": "launch",
+            "mainClass": "initialization.Overloading"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PassingThis",
+            "request": "launch",
+            "mainClass": "PassingThis"
+        }
+    ]
+}
