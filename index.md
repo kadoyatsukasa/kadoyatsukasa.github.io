@@ -16,7 +16,7 @@ layout: default
   - [Java 核心技术](./docs/corejava/menu.md)
   - [Java 编程思想](./docs/thinkinginjava/menu.md)  
 - **Kotlin**  
-  -[Kotlin实战](./docs/404)  
+  - [Kotlin实战](./docs/404)  
 
 ## 联系本人
 
