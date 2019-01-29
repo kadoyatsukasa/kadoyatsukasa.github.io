@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Mugs",
+            "request": "launch",
+            "mainClass": "initialization.Mugs",
+            "projectName": "kadoyatsukasa.github.io_66dfe204"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExplicitStatic",
+            "request": "launch",
+            "mainClass": "initialization.ExplicitStatic",
+            "projectName": "kadoyatsukasa.github.io_66dfe204"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StaticInitialization",
             "request": "launch",
             "mainClass": "initialization.StaticInitialization",
