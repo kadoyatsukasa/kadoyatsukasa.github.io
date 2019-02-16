@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ArrayNew",
+            "request": "launch",
+            "mainClass": "initialization.ArrayNew"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayOfPrimitives",
+            "request": "launch",
+            "mainClass": "initialization.ArrayOfPrimitives"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Mugs",
             "request": "launch",
             "mainClass": "initialization.Mugs",
