@@ -6,6 +6,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DynamicArray",
+            "request": "launch",
+            "mainClass": "initialization.DynamicArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Other",
+            "request": "launch",
+            "mainClass": "initialization.Other"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayInit",
+            "request": "launch",
+            "mainClass": "initialization.ArrayInit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayClassObj",
+            "request": "launch",
+            "mainClass": "ArrayClassObj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayCLassObj",
+            "request": "launch",
+            "mainClass": "ArrayCLassObj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayCLassObj",
+            "request": "launch",
+            "mainClass": "initialiaztion.ArrayCLassObj"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayNew",
             "request": "launch",
             "mainClass": "initialization.ArrayNew"
