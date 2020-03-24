@@ -12,19 +12,24 @@ layout: default
 >
 > 嘛，好记性不如烂笔头，就把笔记记录下来咯，嘻嘻
 
+### 语言工具与框架学习  
+> 磨刀不误砍柴工，开工之前总得把工具给玩利索咯  
 - **Java**
   - [Java 核心技术](./docs/corejava/menu.md)
   - [Java 编程思想](./docs/thinkinginjava/menu.md)  
 - **Kotlin**  
   - [Kotlin实战](./docs/404)  
+- **C++**
+  - [C++ Primer](https://github.com/kadoyatsukasa/CppPrimerLearningNote/README.md)  
+  - [QT]()    
 
-## 设备
+<!-- ## 设备
 
 > 设备对于程序员来说也是非常重要的一个部分,我也会分享我的工作桌面的变更历程  
 
 - **无线桌面计划**
     - [第1期](./docs/wireless/001/001.md)  
-- **装备种草**
+- **装备种草** -->
 
 ## 联系本人
 
