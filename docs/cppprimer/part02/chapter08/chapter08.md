@@ -7,16 +7,18 @@ layout: default
 ## 8.1 IO类
 + 知识点: 
     - IO库类型和头文件 
+        
         |||
         |:---:|:---:|
         |头文件|类型|
         |iostream|istream,wistream  从流读取数据<br/> ostream,wostream 向流写入数据<br/> iosream,wiostream 读写流|
         |fstream|ifstream,wifstream 从文件读取数据<br/> ofstream,wostream 向文件写入数据<br/> fstream,wfstream 读写文件|
-        |sstream|istringstream,wistringstream 从string读取数据<br/>ostringstream,wostringstream 向string写入数据<br/>stringstream,wstringstream 读写string|
-        |||
+        |sstream|istringstream,wistringstream 从string读取数据<br/>ostringstream,wostringstream 向string写入数据<br/>stringstream,wstringstream 读写string| 
+
     - IO对象无拷贝或赋值  
     
     - IO库条件状态  
+        
         |||
         |:---:|:---:|
         |`strm::iostate`|`strm`是一种IO类型.<br/>iostate是一种机器相关的类型,提供了表达条件状态的完整功能|
@@ -31,8 +33,8 @@ layout: default
         |`s.clear()`|将流s中的所有条件状态复位,将流的状态设置为有效,返回void|
         |`s.clear(flags)`|根据给定的flags标志位,将流s中对应条件状态复位.flags的类型为`strm::iostate`.返回void| 
         |`s.setstate(flags)`|根据给定的flags标志位,将流s中对应条件状态置位.flags的类型为`strm::iostate`,返回void|
-        |`s.rdsate()`|返回流s的当前条件状态,返回值类型为`strm::iostate`|
-        |||
+        |`s.rdsate()`|返回流s的当前条件状态,返回值类型为`strm::iostate`| 
+
     - 导致缓冲刷新的原因有很多:  
         - 程序正常结束,作为main函数的return操作的一部分,缓冲刷新被执行.  
         - 缓冲区满时,需要刷新缓冲,而后刷新的数据才能继续写入缓冲区.  

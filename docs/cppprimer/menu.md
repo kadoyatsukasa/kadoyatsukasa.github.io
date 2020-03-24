@@ -20,7 +20,7 @@ layout: default
 
 ### 第二部分 C++标准库
 #### [第8章 IO库](part02/chapter08/chapter08.md)  
-#### 第9章 顺序容器  
+#### [第9章 顺序容器](part02/chapter09/chapter09.md)  
 #### 第10章 泛型算法  
 #### 第11章 关联容器  
 #### 第12章 动态内存  
