@@ -20,16 +20,16 @@ layout: default
 - **Kotlin**  
   - [Kotlin实战](./docs/404)  
 - **C++**
-  - [C++ Primer](https://github.com/kadoyatsukasa/CppPrimerLearningNote/blob/master/README.md)  
+  - [C++ Primer](https://github.com/kadoyatsukasa/CppPrimerLearningNote/blob/master/README.md)这个地方用的是现有的仓库,有点瞎眼,后期会进行跟进改善,把这一段融合到博客中来.  
   - [QT]()    
 
-<!-- ## 设备
+## 设备
 
 > 设备对于程序员来说也是非常重要的一个部分,我也会分享我的工作桌面的变更历程  
 
 - **无线桌面计划**
     - [第1期](./docs/wireless/001/001.md)  
-- **装备种草** -->
+- **装备种草**
 
 ## 联系本人
 
