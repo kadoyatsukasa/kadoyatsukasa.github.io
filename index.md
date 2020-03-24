@@ -20,7 +20,7 @@ layout: default
 - **Kotlin**  
   - [Kotlin实战](./docs/404)  
 - **C++**
-  - [C++ Primer](https://github.com/kadoyatsukasa/CppPrimerLearningNote/README.md)  
+  - [C++ Primer](https://github.com/kadoyatsukasa/CppPrimerLearningNote/blob/master/README.md)  
   - [QT]()    
 
 <!-- ## 设备
