@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# CppPrimerLearningNote
+# C++ Primer学习笔记
 > C++ primer 一书的学习与习题解答
 
 ## 目录
