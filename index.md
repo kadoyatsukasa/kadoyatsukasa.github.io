@@ -21,6 +21,7 @@ layout: default
   - [Kotlin实战](./docs/404)  
 - **C++**
   - [C++ Primer](docs/cppprimer/menu.md)  
+  - [QT](docs/qt/menu.md)  
 
 ## 设备
 
