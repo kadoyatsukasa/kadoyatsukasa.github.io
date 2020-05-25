@@ -12,7 +12,7 @@ layout: default
 5.  通过自定义`QWidget`或合适的子类并重新实现虚拟事件处理程序，可以创建自定义窗口小部件  
 
 
-#### [· 窗口(Window)和对话框(Dialog)组件](./windows_and_dialog.md)  
+#### [· 窗口(Window)和对话框(Dialog)组件](./window_and_dialog.md)  
 #### [· 程序主窗口](./main_windows.md)  
 #### [· 对话框窗口](./dialog_windows.md)  
 #### [· 组件内的键盘焦点](./keyborad_focus.md)  
